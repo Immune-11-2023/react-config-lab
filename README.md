@@ -10,6 +10,8 @@ El objetivo de esta práctica es que adquieras familiaridad con estos entornos, 
 
 Tu objetivo es que ver es poder cargar esta página sin ningún error:
 
+![Final screen](https://res.cloudinary.com/dagndlfhj/image/upload/v1707121669/Screenshot_2024-02-05_at_09.26.21_bsmnto.png)
+
 ---
 
 Lo mismo se aplica al repositorio con Vite. Al intentar montar la aplicación con el comando
