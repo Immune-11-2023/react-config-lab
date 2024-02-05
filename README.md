@@ -1,3 +1,5 @@
+## CRA & Vite Intro
+
 En esta unidad hemos aprendido el setup básico de un proyecto en React a través de CRA y Vite. La práctica de hoy es bien sencilla: en este repo encontraréis dos proyectos de React montados con CRA y Vite. Sin embargo, una criatura con malvadas intenciones ha pervertido la estructura de estos proyectos. Tu objetivo es encontrar dichos problemas y solucionarlos uno a uno, empezando por el repositorio de `cra-app` .
 
 Te encontrarás problemas como este:
